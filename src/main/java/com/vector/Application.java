@@ -10,6 +10,9 @@ public class Application {
 
 		int i = 10;
 		int j = 20;
+
+		boolean isPassed = true;
+		boolean isChanged = false;
 		
 	}
 	
